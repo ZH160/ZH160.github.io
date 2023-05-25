@@ -6,11 +6,12 @@ This is my first blog. Stimulated by this sentence and following the given templ
 Therefore,
 - [x] Edit the index.
 
-
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-
 ![Image of the ELEC4630 Image Pricessing and Computer Vision title from Blackboard](images/ELEC4630title.jpg)
+
+
+
+
+>Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 ![Image of fast.ai logo](images/logo.png)
 
 ## This is a title
