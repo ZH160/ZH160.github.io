@@ -9,3 +9,5 @@ Thus, the learning without GPT took about 55 minutes. And the the checking part 
 And it seem inpractical to repert the tuning again.
 
 So, only leave the significant part to GPU. Otherwise a painful and dougthful learning process would pop-up.
+
+![Image of 55 minutes learning](images/55mins_learning,jpg)
